@@ -16,5 +16,7 @@ So what I would like to achieve here (haven't started yet, no code exists) is a 
 
 Although I'm not really a fan, the only programming language I know is capable of running on OpenWRT is C++. I'm planning to do more research before starting to code though. 
 
-Maybe Python would work? https://wiki.openwrt.org/doc/software/python
-Need to research if it can also run on Android.
+Maybe Python could work?
+* https://wiki.openwrt.org/doc/software/python
+* http://stackoverflow.com/questions/101754/is-there-a-way-to-run-python-on-android
+* https://kivy.org
