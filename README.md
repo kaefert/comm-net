@@ -22,6 +22,6 @@ Maybe Python could work?
 * https://kivy.org
 
 ##2016-08-01
-I think even though Python is a more beautiful language than C++, the hassle of getting it to run on both OpenWRT and Android is a bigger drawback then me finally having to learn C++.
+I think even though Python is a more beautiful language than C++, the hassle of getting it to run (performant) on both OpenWRT and Android is a bigger drawback then me finally having to learn C++.
 
 A nice design would be if the user interace where done in HTML+CSS+JS which could be both served directly from the proxy application running on OpenWRT and packaged into an Android or even an IPhone app with additional features delivered by PhoneGap.
